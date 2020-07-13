@@ -1,8 +1,7 @@
-covidproject with mitch scheller
+earnings-call-nlp proj with rikesh patel
 
 naming convention for notebooks:
 
 [#]_[2-4 word description]_[DS-initials]_[ISO 8601 date].ipynb
 
 	ex. 1_exploratory-data-analysis_km_2020-07-11.ipynb
-
